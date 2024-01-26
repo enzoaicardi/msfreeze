@@ -1,0 +1,16 @@
+{
+    "name": "msfreeze",
+    "version": "0.0.3",
+    "description": "freeze tester for benchmarking",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "test",
+        "benchmark",
+        "freeze"
+    ],
+    "author": "enzoaicardi",
+    "license": "ISC"
+}
